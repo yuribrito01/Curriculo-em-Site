@@ -1,0 +1,74 @@
+
+.cordefundo{
+    background-color: rgb(85, 5, 18);
+    height: 600px;
+    color: black;
+}
+ header h1{
+    padding-top: 50px;
+    padding-left: 500px;
+    display: inline-block;
+}
+
+header li{
+    padding-bottom: 20px;
+}
+
+.imagem{
+    width: 80px;
+    
+}
+
+ul{
+    list-style: none;
+
+}
+
+.paragrafo{
+    width: 500px;
+    margin-left: 1200px;
+    display: inline-block;
+
+}
+.yuri{
+    position: relative;
+    padding-left: 500px;
+    padding-top: 1px;
+    margin-top: 1px;
+    width: 800px;
+}
+
+/* .fundo{
+    background-color: lightgray;
+} */
+
+.borda{
+    border: 2px solid black;
+    border-radius: 10px;
+    display: inline-block;
+    width: 1500px;
+    height: 1000px;
+    text-align: center;
+    margin-left: 70px;
+    margin-top: 50px
+}
+
+.rodape{
+    background-image: url(bg.jpg);
+    margin-top: 50px;
+    
+}
+
+#colorwhite{
+    color: white;
+    text-align: center;
+}
+
+.imagemrodape{
+    width: 200px; height: 200px;
+    margin-top: 10px;
+}
+
+.tamanho{
+    width: 700px;
+}

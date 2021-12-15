@@ -1,0 +1,1 @@
+$('#ExemploModalCentralizado').modal('show')
